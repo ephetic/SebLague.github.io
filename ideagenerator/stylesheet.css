@@ -29,6 +29,7 @@ body {
 }
 
 .button {
+	visibility: hidden;
 	background-color: #4CAFFF;
 	
 	font-family: opensans;
